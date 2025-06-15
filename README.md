@@ -17,7 +17,7 @@ This is a complete machine learning project that predicts customer churn in a ba
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle - Customer Churn](https://www.kaggle.com/datasets/shubhendra7/customer-churn-prediction)
+- **Source:** [Kaggle - Customer Churn](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction)
 - **Records:** 10,000 bank customers
 - **Target Column:** `Exited` (1 = Churned, 0 = Stayed)
 
